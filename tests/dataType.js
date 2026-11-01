@@ -34,6 +34,7 @@ console.log(typeof isJavaScriptInteresting);
 var landlineNumber=null
 console.log(landlineNumber);
 console.log(typeof landlineNumber); // object
+//This is a Leagcy BUG. It should print NULL. 
 
 //UNDEFINED = 
 
